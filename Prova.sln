@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Prova", "Prova\Prova.rptproj", "{BBF58FAA-AAE6-4747-B3D4-CFA80573A334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF58FAA-AAE6-4747-B3D4-CFA80573A334}.Debug|Default.ActiveCfg = Debug
+		{BBF58FAA-AAE6-4747-B3D4-CFA80573A334}.Debug|Default.Build.0 = Debug
+		{BBF58FAA-AAE6-4747-B3D4-CFA80573A334}.Debug|Default.Deploy.0 = Debug
+		{BBF58FAA-AAE6-4747-B3D4-CFA80573A334}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{BBF58FAA-AAE6-4747-B3D4-CFA80573A334}.DebugLocal|Default.Build.0 = DebugLocal
+		{BBF58FAA-AAE6-4747-B3D4-CFA80573A334}.Release|Default.ActiveCfg = Release
+		{BBF58FAA-AAE6-4747-B3D4-CFA80573A334}.Release|Default.Build.0 = Release
+		{BBF58FAA-AAE6-4747-B3D4-CFA80573A334}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
